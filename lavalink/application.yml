@@ -25,3 +25,6 @@ plugins:
       - MUSIC
       - ANDROID_TESTSUITE
       - WEB
+      - WEBEMBEDDED
+    oauth:
+      enabled: true
